@@ -1,0 +1,154 @@
+{
+    "chennai_zones": [ 
+    {
+        "id": 1,
+        "zone": 1,
+        "name": "thiruvotriyur",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 1,
+            "endWard": 14
+        }
+    },
+    {
+        "id": 2,
+        "zone": 2,
+        "name": "manali",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 15,
+            "endWard": 21
+        }
+    },
+    {
+        "id": 3,
+        "zone": 3,
+        "name": "madhavaram",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 22,
+            "endWard": 33
+        }
+    },
+    {
+        "id": 4,
+        "zone": 4,
+        "name": "tondiarpet",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 34,
+            "endWard": 48
+        }
+    },
+    {
+        "id": 5,
+        "zone": 5,
+        "name": "royapuram",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 49,
+            "endWard": 63
+        }
+    },
+    {
+        "id": 6,
+        "zone": 6,
+        "name": "thiru-vi-ka nagar",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 64,
+            "endWard": 78
+        }
+    },
+    {
+        "id": 7,
+        "zone": 7,
+        "name": "ambattur",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 79,
+            "endWard": 93
+        }
+    },
+    {
+        "id": 8,
+        "zone": 8,
+        "name": "anna nagar",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 94,
+            "endWard": 108
+        }
+    },
+    {
+        "id": 9,
+        "zone": 9,
+        "name": "teynampet",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 109,
+            "endWard": 126
+        }
+    },
+    {
+        "id": 10,
+        "zone": 10,
+        "name": "kodambakkam",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 127,
+            "endWard": 142
+        }
+    },
+    {
+        "id": 11,
+        "zone": 11,
+        "name": "valasaravakkam",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 143,
+            "endWard": 155
+        }
+    },
+    {
+        "id": 12,
+        "zone": 12,
+        "name": "alandur",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 156,
+            "endWard": 167
+        }
+    },
+    {
+        "id": 13,
+        "zone": 13,
+        "name": "adyar",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 170,
+            "endWard": 182
+        }
+    },
+    {
+        "id": 14,
+        "zone": 14,
+        "name": "perungudi",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 183,
+            "endWard": 191,
+            "extras": [ 168, 169 ]
+        }
+    },
+    {
+        "id": 15,
+        "zone": 15,
+        "name": "sozhinganallur",
+        "tags": [ "north", "blank" ],
+        "wards": {
+            "startWard": 192,
+            "endWard": 200
+        }
+    }]
+}
