@@ -84,7 +84,7 @@
                 "addr:street": "Thiruvanmiyur East Coast Road",
                 "address:postcode": "600041",
                 "amenity": "library",
-                "marker-color": "#00ff00",
+                "marker-color": "#ff0000",
                 "marker-symbol": "library",
                 "name": "Panuval Book Shop",
                 "opening_hours": "Weekdays",
