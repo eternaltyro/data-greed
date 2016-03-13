@@ -26,8 +26,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    80.26510798,
-                    13.04009459
+                    80.26519,
+                    13.04005
                 ],
                 "type": "Point"
             },
@@ -72,8 +72,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    80.25853169,
-                    12.97496192
+                    80.25695,
+                    12.98746
                 ],
                 "type": "Point"
             },
@@ -225,6 +225,29 @@
                 "marker-color": "#00ff00",
                 "marker-symbol": "library",
                 "name": "District Circle Library, Ashok Nagar",
+                "opening_hours": "Mo-Th 08:00-20:00; Fr off; week 02 Sa off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.25974,
+                    12.98614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "148/AV",
+                "addr:street": "East Coast Road, Tiruvanmiyur",
+                "address:postcode": "600041",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Full time branch library, Tiruvanmiyur",
                 "opening_hours": "Mo-Th 08:00-20:00; Fr off; week 02 Sa off; PH off",
                 "operator": "Directorate of Public Libraries"
             },
