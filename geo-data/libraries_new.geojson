@@ -36,7 +36,7 @@
                 "addr:country": "IN",
                 "addr:housenumber": "101/44 A",
                 "addr:street": "Veeraperumal Koil Street, Mylapore",
-                "address:postcode": "600042",
+                "address:postcode": "600004",
                 "amenity": "library",
                 "marker-color": "#00ff00",
                 "marker-symbol": "library",
