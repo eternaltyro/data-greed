@@ -187,8 +187,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    80.2397,
-                    13.01696
+                    80.24034,
+                    13.01712
                 ],
                 "type": "Point"
             },
@@ -273,6 +273,75 @@
                 "name": "Ranade Library",
                 "opening_hours": "Mo-Sa 08:00-21:00",
                 "operator": "The South Indian national Association"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.24565,
+                    13.02823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "1",
+                "addr:street": "Turnbulls Road, Nandanam",
+                "address:postcode": "600035",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Dr. Kedadas Ethirajulu Indrani Branch Library",
+                "opening_hours": "Mo-Th 08:00-11:30,16:00-19:00; Fr off; week 02 Sa off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.25051,
+                    13.03509
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Kavingar Barathidasan Road, Alwarpet",
+                "address:postcode": "600018",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Chennai District Circle Library, Kavingar Barathidasan Road",
+                "opening_hours": "Mo-Th 08:00-20:00; Fr off; Week 02 Sa off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.24424,
+                    13.01679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "2",
+                "addr:street": "New Street, Kottur",
+                "address:postcode": "600085",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Branch Library, Kottur",
+                "opening_hours": "Mo-Th 08:00-11:30,16:00-19:00; Fr off; week 02 Sa off; PH off",
+                "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
         }
