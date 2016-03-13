@@ -180,7 +180,7 @@
                 "marker-symbol": "library",
                 "name": "Eloor Private Library",
                 "opening_hours": "Mo-Fr 10:00-18:00",
-                "operator": "Directorate of Public Libraries"
+                "operator": "Eloor Private Library"
             },
             "type": "Feature"
         },
@@ -250,6 +250,29 @@
                 "name": "Full time branch library, Tiruvanmiyur",
                 "opening_hours": "Mo-Th 08:00-20:00; Fr off; week 02 Sa off; PH off",
                 "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.2653486,
+                    13.0372553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+                "address:postcode": "600004",
+                "amenity": "library",
+                "marker-color": "#ff0000",
+                "marker-symbol": "library",
+                "name": "Ranade Library",
+                "opening_hours": "Mo-Sa 08:00-21:00",
+                "operator": "The South Indian national Association"
             },
             "type": "Feature"
         }
