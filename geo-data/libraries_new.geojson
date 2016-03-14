@@ -344,6 +344,52 @@
                 "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.25803,
+                    13.05823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Thousand Lights, Anna Salai",
+                "address:postcode": "600006",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Devaneya Pavanar Library",
+                "opening_hours": "Mo-Th 08:00-20:00; week 02 Sa off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.25693,
+                    13.07029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Pantheon Road, Egmore",
+                "address:postcode": "600008",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Connemara Public Library",
+                "opening_hours": "Mo-Th 09:00-19:00; week 02 Sa off; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
