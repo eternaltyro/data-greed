@@ -390,6 +390,29 @@
                 "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.21833,
+                    13.02473
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "83",
+                "addr:street": "West Jones Road, Saidapet",
+                "address:postcode": "600015",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District branch library, Saidapet",
+                "opening_hours": "Mo-Th 08:00-11:30,16:00-19:00; week 02 Sa off; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
