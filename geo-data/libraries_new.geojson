@@ -436,6 +436,75 @@
                 "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    79.54643,
+                    11.77584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Panruti",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "SPD Shanmugam Street",
+                "address:postcode": "607106",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Branch Library, Panruti",
+                "opening_hours": "Mo-Th 08:00-20:00; Fr off; week 02 Sa off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    79.529,
+                    11.79507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Panruti",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Vellan Chetty Street, Puthupet, Thorapadi",
+                "address:postcode": "607108",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Branch Library, Thorapadi",
+                "opening_hours": "Mo-Th 09:00-12:30,16:00-19:00; Fr off; week 02 Sa off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    79.47927,
+                    11.79444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Panruti",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Natham",
+                "address:postcode": "607101",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Public Library, Natham",
+                "opening_hours": "",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
