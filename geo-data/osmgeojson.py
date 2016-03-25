@@ -62,10 +62,12 @@ if not FILE_EMPTY:
         current = load(data)
         featureSet = current['features']
         featureSet.append(my_feature)
+        print "Total libraries: %d" % len(featureSet)
         libraries = FeatureCollection(featureSet)
 else:
     libraries = FeatureCollection([my_feature])
 
+# Write data to file
 with open(GEODATAFILE,'w+') as data:
     dump(libraries, data, indent=4, sort_keys=True)
 
