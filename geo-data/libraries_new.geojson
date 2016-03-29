@@ -11,7 +11,7 @@
             "properties": {
                 "addr:city": "Chennai",
                 "addr:country": "IN",
-                "addr:housenumber": "",
+                "addr:housenumber": "9",
                 "addr:street": "Five furlong road, Maduvankarai, Guindy",
                 "address:postcode": "600032",
                 "amenity": "library",
@@ -103,7 +103,7 @@
             "properties": {
                 "addr:city": "Chennai",
                 "addr:country": "IN",
-                "addr:housenumber": "",
+                "addr:housenumber": "4",
                 "addr:street": "Venkatesa Agraharam",
                 "address:postcode": "600004",
                 "amenity": "library",
@@ -310,7 +310,7 @@
             "properties": {
                 "addr:city": "Chennai",
                 "addr:country": "IN",
-                "addr:housenumber": "",
+                "addr:housenumber": "16",
                 "addr:street": "Kavingar Barathidasan Road, Alwarpet",
                 "address:postcode": "600018",
                 "amenity": "library",
@@ -333,7 +333,7 @@
             "properties": {
                 "addr:city": "Chennai",
                 "addr:country": "IN",
-                "addr:housenumber": "2",
+                "addr:housenumber": "4",
                 "addr:street": "New Street, Kottur",
                 "address:postcode": "600085",
                 "amenity": "library",
@@ -356,9 +356,9 @@
             "properties": {
                 "addr:city": "Chennai",
                 "addr:country": "IN",
-                "addr:housenumber": "",
+                "addr:housenumber": "735",
                 "addr:street": "Thousand Lights, Anna Salai",
-                "address:postcode": "600006",
+                "address:postcode": "600002",
                 "amenity": "library",
                 "marker-color": "#00ff00",
                 "marker-symbol": "library",
