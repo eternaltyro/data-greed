@@ -505,6 +505,75 @@
                 "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.23565,
+                    13.03969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "3",
+                "addr:street": "Sivagnanam Street, T Nagar",
+                "address:postcode": "600017",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Branch Library, T nagar",
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.23608,
+                    13.03115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Canal Bank Road, CIT Nagar East",
+                "address:postcode": "600035",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Branch Library, CIT Nagar",
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.21529,
+                    13.02857
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "7",
+                "addr:street": "Third Street, Raghavan Colony, Jafferkhanpet",
+                "address:postcode": "600083",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Jafferkhanpet",
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
