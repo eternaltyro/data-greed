@@ -574,6 +574,121 @@
                 "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.20358,
+                    13.05282
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "18",
+                "addr:street": "Navaneethammal Street, Saligramam",
+                "address:postcode": "600093",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Saligramam",
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.20947,
+                    13.04657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "42",
+                "addr:street": "Police Quarters (Inspectors, Sub-inspectors), South Sivan Koil Street, Vadapalani",
+                "address:postcode": "600026",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Part Time Library, Vadapalani Police Quarters",
+                "opening_hours": "Mo-Su 08:00-11:00,16:00-19:00; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.21951,
+                    13.05387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "4",
+                "addr:street": "Vellala Street, Kodambakkam",
+                "address:postcode": "600024",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Kodambakkam",
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.21682,
+                    13.05138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "282",
+                "addr:street": "Arcot Road, Kodambakkam (opp. Ram Theatre)",
+                "address:postcode": "600024",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Arcot Road",
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.22301,
+                    13.0515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "2/34",
+                "addr:street": "Guhan Street, Puliyur, Kodambakkam",
+                "address:postcode": "600024",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Branch Library, Puliyur",
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
