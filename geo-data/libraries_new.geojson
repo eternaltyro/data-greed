@@ -689,6 +689,167 @@
                 "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.27572,
+                    13.06072
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "159",
+                "addr:street": "Big Street, Triplicane",
+                "address:postcode": "600005",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Full Time Library, Triplicane",
+                "opening_hours": "Mo-Su 08:00-20:00; Sa[2] off; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.27181,
+                    13.04882
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "L.C 2",
+                "addr:street": "Lloyd's Colony, Triplicane",
+                "address:postcode": "600014",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Triplicane",
+                "opening_hours": "Mo-Su 08:00-11:00,16:00-19:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.27771,
+                    13.06094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "139",
+                "addr:street": "Bells Road, Triplicane",
+                "address:postcode": "600005",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library (Women), Triplicane",
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.27862,
+                    13.06002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Victoria Hostel Street, Kasturiba Gandhi Hospital, Triplicane",
+                "address:postcode": "600005",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Kasturiba Gandhi Hospital, Triplicane",
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.27269,
+                    13.06264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "10",
+                "addr:street": "Vallaba Agraharam Street, Tiruvatteeswaranpet",
+                "address:postcode": "600005",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Tiruvateeswaranpet",
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.27561,
+                    13.0588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "130",
+                "addr:street": "Bharathi Road, Triplicane",
+                "address:postcode": "600005",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Triplicane",
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.27572,
+                    13.04553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "7",
+                "addr:street": "Thulukkanam Garden, Triplicane",
+                "address:postcode": "600005",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Triplicane",
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"

@@ -1,7 +1,9 @@
 from geojson import Point
 from geojson import Feature, FeatureCollection
 from geojson import dump, load
+from osmapi import OsmApi
 import os
+
 
 def degree_decimal(dms_list):
     return dms_list[0] + (dms_list[1] / 60.0) + (dms_list[2] / 3600.0)
@@ -21,6 +23,15 @@ elif COORD_SYSTEM == 'degree':
     lon_dms = raw_input('deg,min,sec: ')
     lat = degree_decimal([float(x.strip()) for x in lat_dms.split(',')])
     lon = degree_decimal([float(y.strip()) for y in lon_dms.split(',')])
+
+def prompt():
+    print("Select Option")
+    print("0. Exit")
+    print("1. Add a node")
+    print("2. Get node(s)")
+
+def add_to_osm():
+    connection = OsmApi(passwordfile=u'', api=OSM_EP)
 
 # GeoJSON point is (Easting, Northing) / (Long, Lat) order!
 my_point = Point((lon,lat))
@@ -62,7 +73,7 @@ if not FILE_EMPTY:
         current = load(data)
         featureSet = current['features']
         featureSet.append(my_feature)
-        print "Total libraries: %d" % len(featureSet)
+        print("Total libraries: %d" % len(featureSet))
         libraries = FeatureCollection(featureSet)
 else:
     libraries = FeatureCollection([my_feature])
