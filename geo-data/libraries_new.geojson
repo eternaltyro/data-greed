@@ -799,7 +799,7 @@
                 "amenity": "library",
                 "marker-color": "#00ff00",
                 "marker-symbol": "library",
-                "name": "District Branch Library, Tiruvateeswaranpet",
+                "name": "District Branch Library, Tiruvateeswaranpet, Triplicane",
                 "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
                 "operator": "Directorate of Public Libraries"
             },
@@ -847,6 +847,167 @@
                 "marker-symbol": "library",
                 "name": "District Branch Library, Triplicane",
                 "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.25865,
+                    13.05489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "160",
+                "addr:street": "Peter's Colony, Royapettah",
+                "address:postcode": "600014",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Peter's Colony",
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.26464,
+                    13.05081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "10",
+                "addr:street": "Leonard Street, Royapettah",
+                "address:postcode": "600014",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Royapettah",
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.26934,
+                    13.05139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "178",
+                "addr:street": "Venkatachalam (VM) Street, Royapettah",
+                "address:postcode": "600014",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Royapettah",
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.27017,
+                    13.06124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "20/204",
+                "addr:street": "Jani Basha Street/Subburaya Street, Puthuppakkam, Royapettah",
+                "address:postcode": "600014",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Pudupakkam",
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.2697,
+                    13.05799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "6/74",
+                "addr:street": "Mir Bakshi Ali Street, Royapettah",
+                "address:postcode": "600014",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Royapettah",
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.23833,
+                    13.00618
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Gandhi Mandapam, Sardar Patel Road, Adyar",
+                "address:postcode": "600022",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Mahatma Gandhi Library, Gandhi Mandapam",
+                "opening_hours": "Mo-Su 10:00-17:20; Fr off; Sa[2] off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.23889,
+                    13.00591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Gandhi Mandapam, Sardar Patel Road, Adyar",
+                "address:postcode": "600022",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Rajaji Memorial Library, Adyar",
+                "opening_hours": "Mo-Su 10:00-17:20; PH off",
                 "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
