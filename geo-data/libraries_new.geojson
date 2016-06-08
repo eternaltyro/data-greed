@@ -1195,6 +1195,98 @@
                 "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.223169,
+                    13.038996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Bakthavachalam Street, West Mambalam",
+                "address:postcode": "600033",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Part Time Library, West Mambalam",
+                "opening_hours": "Mo-Su 09:00-12:00; Fr off; Sa[2] off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.230394,
+                    13.022781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "D-62",
+                "addr:street": "PWD Govt. Staff Qtrs, Todd Hunter Nagar, Saidapet",
+                "address:postcode": "600015",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Todd Hunter Nagar, Saidapet",
+                "opening_hours": "",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.225677,
+                    13.012979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "26",
+                "addr:street": "E Block, Venkatapuram, Saidapet",
+                "address:postcode": "600015",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, Venkatapuram, Saidapet",
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.216302,
+                    13.020074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "29/11",
+                "addr:street": "Anjaneya Temple Street, Saidapet",
+                "address:postcode": "600015",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Branch Library, Saidapet",
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
