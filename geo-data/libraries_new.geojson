@@ -3,1291 +3,1291 @@
         {
             "geometry": {
                 "coordinates": [
-                    80.21416667,
+                    80.21416667, 
                     12.99944444
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "9",
-                "addr:street": "Five furlong road,Maduvankarai,Guindy",
-                "address:postcode": "600032",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Maduvankarai",
-                "opening_hours": "Mo-Sa 08:00-11:30,14:00-19:00; Sa[2] off; Su off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "9", 
+                "addr:street": "Five furlong road, Maduvankarai, Guindy", 
+                "address:postcode": "600032", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Maduvankarai", 
+                "opening_hours": "Mo-Sa 08:00-11:30,14:00-19:00; Sa[2] off; Su off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.26519,
+                    80.26519, 
                     13.04005
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "101/44 A",
-                "addr:street": "Veeraperumal Koil Street,Mylapore",
-                "address:postcode": "600004",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Mylapore",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "101/44 A", 
+                "addr:street": "Veeraperumal Koil Street, Mylapore", 
+                "address:postcode": "600004", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Mylapore", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.26689654,
+                    80.26689654, 
                     13.02920579
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "37",
-                "addr:street": "Mandaiveli Mylapore Road",
-                "address:postcode": "600028",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Chennai District Branch Library,Mandaiveli",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "37", 
+                "addr:street": "Mandaiveli Mylapore Road", 
+                "address:postcode": "600028", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Chennai District Branch Library, Mandaiveli", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.25695,
+                    80.25695, 
                     12.98746
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Thiruvanmiyur East Coast Road",
-                "address:postcode": "600041",
-                "amenity": "library",
-                "marker-color": "#ff0000",
-                "marker-symbol": "library",
-                "name": "Panuval Book Shop",
-                "opening_hours": "Weekdays",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Thiruvanmiyur East Coast Road", 
+                "address:postcode": "600041", 
+                "amenity": "library", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "library", 
+                "name": "Panuval Book Shop", 
+                "opening_hours": "Weekdays", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.266444,
+                    80.266444, 
                     13.032611
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "4",
-                "addr:street": "Venkatesa Agraharam",
-                "address:postcode": "600004",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Mylapore",
-                "opening_hours": "Mo-Sa 08:00-11:30,14:00-19:00; Sa[2] off; Su off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "4", 
+                "addr:street": "Venkatesa Agraharam", 
+                "address:postcode": "600004", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Mylapore", 
+                "opening_hours": "Mo-Sa 08:00-11:30,14:00-19:00; Sa[2] off; Su off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.15174,
+                    80.15174, 
                     12.88531
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Agaram Then Road",
-                "address:postcode": "600073",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Agaram Then panchayat Library",
-                "opening_hours": "Mo-Fr 08:00-13:00,16:00-19:00; Sa off; Su off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Agaram Then Road", 
+                "address:postcode": "600073", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Agaram Then panchayat Library", 
+                "opening_hours": "Mo-Fr 08:00-13:00,16:00-19:00; Sa off; Su off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.22611,
+                    80.22611, 
                     12.97964
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "153",
-                "addr:street": "7th Avenue,Thandeeswaram Nagar,Velachery",
-                "address:postcode": "600042",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District full-time library,Velachery",
-                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "153", 
+                "addr:street": "7th Avenue, Thandeeswaram Nagar, Velachery", 
+                "address:postcode": "600042", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District full-time library, Velachery", 
+                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.24422,
+                    80.24422, 
                     13.04174
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "North Boag Road,T-Nagar",
-                "address:postcode": "600032",
-                "amenity": "library",
-                "marker-color": "#ff0000",
-                "marker-symbol": "library",
-                "name": "Eloor Private Library",
-                "opening_hours": "Mo-Fr 10:00-18:00",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "North Boag Road, T-Nagar", 
+                "address:postcode": "600032", 
+                "amenity": "library", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "library", 
+                "name": "Eloor Private Library", 
+                "opening_hours": "Mo-Fr 10:00-18:00", 
                 "operator": "Eloor Private Library"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.24034,
+                    80.24034, 
                     13.01712
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Kotturpuram Main Road",
-                "address:postcode": "600025",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Anna Centenary Library",
-                "opening_hours": "Mo-Su 09:00-20:00 || Mo-Su 08:00-21:00 open \"Own book reading section\"; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Kotturpuram Main Road", 
+                "address:postcode": "600025", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Anna Centenary Library", 
+                "opening_hours": "Mo-Su 09:00-20:00 || Mo-Su 08:00-21:00 open \"Own book reading section\"; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.2142,
+                    80.2142, 
                     13.03194
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "16/35",
-                "addr:street": "11th Avenue,Ashok Nagar",
-                "address:postcode": "600083",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Circle Library,Ashok Nagar",
-                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "16/35", 
+                "addr:street": "11th Avenue, Ashok Nagar", 
+                "address:postcode": "600083", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Circle Library, Ashok Nagar", 
+                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.25974,
+                    80.25974, 
                     12.98614
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "148/AV",
-                "addr:street": "East Coast Road,Tiruvanmiyur",
-                "address:postcode": "600041",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Full time branch library,Tiruvanmiyur",
-                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "148/AV", 
+                "addr:street": "East Coast Road, Tiruvanmiyur", 
+                "address:postcode": "600041", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Full time branch library, Tiruvanmiyur", 
+                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.2653486,
+                    80.2653486, 
                     13.0372553
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Srinivasa Sastri Hall,Luz Church Road,Mylapore",
-                "address:postcode": "600004",
-                "amenity": "library",
-                "marker-color": "#ff0000",
-                "marker-symbol": "library",
-                "name": "Ranade Library",
-                "opening_hours": "Mo-Sa 08:00-21:00",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Srinivasa Sastri Hall, Luz Church Road, Mylapore", 
+                "address:postcode": "600004", 
+                "amenity": "library", 
+                "marker-color": "#ff0000", 
+                "marker-symbol": "library", 
+                "name": "Ranade Library", 
+                "opening_hours": "Mo-Sa 08:00-21:00", 
                 "operator": "The South Indian national Association"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.24565,
+                    80.24565, 
                     13.02823
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "1",
-                "addr:street": "Turnbulls Road,Nandanam",
-                "address:postcode": "600035",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Dr. Kedadas Ethirajulu Indrani Branch Library",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "1", 
+                "addr:street": "Turnbulls Road, Nandanam", 
+                "address:postcode": "600035", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Dr. Kedadas Ethirajulu Indrani Branch Library", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.25051,
+                    80.25051, 
                     13.03509
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "16",
-                "addr:street": "Kavingar Barathidasan Road,Alwarpet",
-                "address:postcode": "600018",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Chennai District Circle Library,Kavingar Barathidasan Road",
-                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "16", 
+                "addr:street": "Kavingar Barathidasan Road, Alwarpet", 
+                "address:postcode": "600018", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Chennai District Circle Library, Kavingar Barathidasan Road", 
+                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.24424,
+                    80.24424, 
                     13.01679
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "4",
-                "addr:street": "New Street,Kotturpuram",
-                "address:postcode": "600085",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Branch Library,Kotturpuram",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "4", 
+                "addr:street": "New Street, Kotturpuram", 
+                "address:postcode": "600085", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Branch Library, Kotturpuram", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.25803,
+                    80.25803, 
                     13.05823
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "735",
-                "addr:street": "Thousand Lights,Anna Salai",
-                "address:postcode": "600002",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Devaneya Pavanar Library",
-                "opening_hours": "Mo-Su 08:00-20:00; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "735", 
+                "addr:street": "Thousand Lights, Anna Salai", 
+                "address:postcode": "600002", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Devaneya Pavanar Library", 
+                "opening_hours": "Mo-Su 08:00-20:00; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.25693,
+                    80.25693, 
                     13.07029
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Pantheon Road,Egmore",
-                "address:postcode": "600008",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Connemara Public Library",
-                "opening_hours": "Mo-Su 09:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Pantheon Road, Egmore", 
+                "address:postcode": "600008", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Connemara Public Library", 
+                "opening_hours": "Mo-Su 09:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.21833,
+                    80.21833, 
                     13.02473
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "83",
-                "addr:street": "West Jones Road,Saidapet",
-                "address:postcode": "600015",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District branch library,Saidapet",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "83", 
+                "addr:street": "West Jones Road, Saidapet", 
+                "address:postcode": "600015", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District branch library, Saidapet", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    79.478976,
+                    79.478976, 
                     11.931781
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Villupuram",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Integrated Government offices Building,Villupuram",
-                "address:postcode": "605602",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Central Library,Villupuram",
-                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Villupuram", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Integrated Government offices Building, Villupuram", 
+                "address:postcode": "605602", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Central Library, Villupuram", 
+                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    79.54643,
+                    79.54643, 
                     11.77584
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Panruti",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "SPD Shanmugam Street",
-                "address:postcode": "607106",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Branch Library,Panruti",
-                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Panruti", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "SPD Shanmugam Street", 
+                "address:postcode": "607106", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Branch Library, Panruti", 
+                "opening_hours": "Mo-Su 08:00-20:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    79.529,
+                    79.529, 
                     11.79507
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Panruti",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Vellan Chetty Street,Puthupet,Thorapadi",
-                "address:postcode": "607108",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Branch Library,Thorapadi",
-                "opening_hours": "Mo-Su 09:00-12:30,16:00-19:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Panruti", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Vellan Chetty Street, Puthupet, Thorapadi", 
+                "address:postcode": "607108", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Branch Library, Thorapadi", 
+                "opening_hours": "Mo-Su 09:00-12:30,16:00-19:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    79.47927,
+                    79.47927, 
                     11.79444
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Panruti",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Natham",
-                "address:postcode": "607101",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Public Library,Natham",
-                "opening_hours": "",
+                "addr:city": "Panruti", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Natham", 
+                "address:postcode": "607101", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Public Library, Natham", 
+                "opening_hours": "", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.23565,
+                    80.23565, 
                     13.03969
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "3",
-                "addr:street": "Sivagnanam Street,T Nagar",
-                "address:postcode": "600017",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Branch Library,T nagar",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "3", 
+                "addr:street": "Sivagnanam Street, T Nagar", 
+                "address:postcode": "600017", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Branch Library, T nagar", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.23608,
+                    80.23608, 
                     13.03115
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Canal Bank Road,CIT Nagar East",
-                "address:postcode": "600035",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Branch Library,CIT Nagar",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Canal Bank Road, CIT Nagar East", 
+                "address:postcode": "600035", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Branch Library, CIT Nagar", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.21529,
+                    80.21529, 
                     13.02857
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "7",
-                "addr:street": "Third Street,Raghavan Colony,Jafferkhanpet",
-                "address:postcode": "600083",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Jafferkhanpet",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "7", 
+                "addr:street": "Third Street, Raghavan Colony, Jafferkhanpet", 
+                "address:postcode": "600083", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Jafferkhanpet", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.20358,
+                    80.20358, 
                     13.05282
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "18",
-                "addr:street": "Navaneethammal Street,Saligramam",
-                "address:postcode": "600093",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Saligramam",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "18", 
+                "addr:street": "Navaneethammal Street, Saligramam", 
+                "address:postcode": "600093", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Saligramam", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.20947,
+                    80.20947, 
                     13.04657
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "42",
-                "addr:street": "Police Quarters (Inspectors,Sub-inspectors),South Sivan Koil Street,Vadapalani",
-                "address:postcode": "600026",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Part Time Library,Vadapalani Police Quarters",
-                "opening_hours": "Mo-Su 08:00-11:00,16:00-19:00; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "42", 
+                "addr:street": "Police Quarters (Inspectors, Sub-inspectors), South Sivan Koil Street, Vadapalani", 
+                "address:postcode": "600026", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Part Time Library, Vadapalani Police Quarters", 
+                "opening_hours": "Mo-Su 08:00-11:00,16:00-19:00; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.21951,
+                    80.21951, 
                     13.05387
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "4",
-                "addr:street": "Vellala Street,Kodambakkam",
-                "address:postcode": "600024",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Kodambakkam",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "4", 
+                "addr:street": "Vellala Street, Kodambakkam", 
+                "address:postcode": "600024", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Kodambakkam", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.21682,
+                    80.21682, 
                     13.05138
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "282",
-                "addr:street": "Arcot Road,Kodambakkam (opp. Ram Theatre)",
-                "address:postcode": "600024",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Arcot Road",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "282", 
+                "addr:street": "Arcot Road, Kodambakkam (opp. Ram Theatre)", 
+                "address:postcode": "600024", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Arcot Road", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.22301,
+                    80.22301, 
                     13.0515
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "2/34",
-                "addr:street": "Guhan Street,Puliyur,Kodambakkam",
-                "address:postcode": "600024",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Branch Library,Puliyur",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "2/34", 
+                "addr:street": "Guhan Street, Puliyur, Kodambakkam", 
+                "address:postcode": "600024", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Branch Library, Puliyur", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.27572,
+                    80.27572, 
                     13.06072
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "159",
-                "addr:street": "Big Street,Triplicane",
-                "address:postcode": "600005",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Full Time Library,Triplicane",
-                "opening_hours": "Mo-Su 08:00-20:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "159", 
+                "addr:street": "Big Street, Triplicane", 
+                "address:postcode": "600005", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Full Time Library, Triplicane", 
+                "opening_hours": "Mo-Su 08:00-20:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.27181,
+                    80.27181, 
                     13.04882
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "L.C 2",
-                "addr:street": "Lloyd's Colony,Triplicane",
-                "address:postcode": "600014",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Triplicane",
-                "opening_hours": "Mo-Su 08:00-11:00,16:00-19:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "L.C 2", 
+                "addr:street": "Lloyd's Colony, Triplicane", 
+                "address:postcode": "600014", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Triplicane", 
+                "opening_hours": "Mo-Su 08:00-11:00,16:00-19:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.27771,
+                    80.27771, 
                     13.06094
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "139",
-                "addr:street": "Bells Road,Triplicane",
-                "address:postcode": "600005",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library (Women),Triplicane",
-                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "139", 
+                "addr:street": "Bells Road, Triplicane", 
+                "address:postcode": "600005", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library (Women), Triplicane", 
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.27862,
+                    80.27862, 
                     13.06002
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Victoria Hostel Street,Kasturiba Gandhi Hospital,Triplicane",
-                "address:postcode": "600005",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Kasturiba Gandhi Hospital,Triplicane",
-                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Victoria Hostel Street, Kasturiba Gandhi Hospital, Triplicane", 
+                "address:postcode": "600005", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Kasturiba Gandhi Hospital, Triplicane", 
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.27269,
+                    80.27269, 
                     13.06264
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "10",
-                "addr:street": "Vallaba Agraharam Street,Tiruvatteeswaranpet",
-                "address:postcode": "600005",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Tiruvateeswaranpet,Triplicane",
-                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "10", 
+                "addr:street": "Vallaba Agraharam Street, Tiruvatteeswaranpet", 
+                "address:postcode": "600005", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Tiruvateeswaranpet, Triplicane", 
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.27561,
+                    80.27561, 
                     13.0588
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "130",
-                "addr:street": "Bharathi Road,Triplicane",
-                "address:postcode": "600005",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Triplicane",
-                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "130", 
+                "addr:street": "Bharathi Road, Triplicane", 
+                "address:postcode": "600005", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Triplicane", 
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.27572,
+                    80.27572, 
                     13.04553
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "7",
-                "addr:street": "Thulukkanam Garden,Triplicane",
-                "address:postcode": "600005",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Triplicane",
-                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "7", 
+                "addr:street": "Thulukkanam Garden, Triplicane", 
+                "address:postcode": "600005", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Triplicane", 
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.25865,
+                    80.25865, 
                     13.05489
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "160",
-                "addr:street": "Peter's Colony,Royapettah",
-                "address:postcode": "600014",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Peter's Colony",
-                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "160", 
+                "addr:street": "Peter's Colony, Royapettah", 
+                "address:postcode": "600014", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Peter's Colony", 
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.26464,
+                    80.26464, 
                     13.05081
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "10",
-                "addr:street": "Leonard Street,Royapettah",
-                "address:postcode": "600014",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Royapettah",
-                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "10", 
+                "addr:street": "Leonard Street, Royapettah", 
+                "address:postcode": "600014", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Royapettah", 
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.26934,
+                    80.26934, 
                     13.05139
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "178",
-                "addr:street": "Venkatachalam (VM) Street,Royapettah",
-                "address:postcode": "600014",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Royapettah",
-                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "178", 
+                "addr:street": "Venkatachalam (VM) Street, Royapettah", 
+                "address:postcode": "600014", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Royapettah", 
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.27017,
+                    80.27017, 
                     13.06124
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "20/204",
-                "addr:street": "Jani Basha Street/Subburaya Street,Puthuppakkam,Royapettah",
-                "address:postcode": "600014",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Pudupakkam",
-                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "20/204", 
+                "addr:street": "Jani Basha Street/Subburaya Street, Puthuppakkam, Royapettah", 
+                "address:postcode": "600014", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Pudupakkam", 
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.2697,
+                    80.2697, 
                     13.05799
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "6/74",
-                "addr:street": "Mir Bakshi Ali Street,Royapettah",
-                "address:postcode": "600014",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Royapettah",
-                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "6/74", 
+                "addr:street": "Mir Bakshi Ali Street, Royapettah", 
+                "address:postcode": "600014", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Royapettah", 
+                "opening_hours": "Mo-Su 10:00-17:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.23833,
+                    80.23833, 
                     13.00618
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Gandhi Mandapam,Sardar Patel Road,Adyar",
-                "address:postcode": "600022",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Mahatma Gandhi Library,Gandhi Mandapam",
-                "opening_hours": "Mo-Su 10:00-17:20; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Gandhi Mandapam, Sardar Patel Road, Adyar", 
+                "address:postcode": "600022", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Mahatma Gandhi Library, Gandhi Mandapam", 
+                "opening_hours": "Mo-Su 10:00-17:20; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.23889,
+                    80.23889, 
                     13.00591
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Gandhi Mandapam,Sardar Patel Road,Adyar",
-                "address:postcode": "600022",
-                "amenity": "library",
-                "marker-color": "#0000ff",
-                "marker-symbol": "library",
-                "name": "Rajaji Memorial Library,Adyar",
-                "opening_hours": "Mo-Su 10:00-17:20; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Gandhi Mandapam, Sardar Patel Road, Adyar", 
+                "address:postcode": "600022", 
+                "amenity": "library", 
+                "marker-color": "#0000ff", 
+                "marker-symbol": "library", 
+                "name": "Rajaji Memorial Library, Adyar", 
+                "opening_hours": "Mo-Su 10:00-17:20; PH off", 
                 "operator": "Chennai Corporation"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.28347,
+                    80.28347, 
                     13.06686
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "South Beach Road / Kamarajar Salai,Triplicane",
-                "address:postcode": "600005",
-                "amenity": "library",
-                "marker-color": "#0000ff",
-                "marker-symbol": "library",
-                "name": "Madras University Library",
-                "opening_hours": "Mo-Su 08:00-20:00",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "South Beach Road / Kamarajar Salai, Triplicane", 
+                "address:postcode": "600005", 
+                "amenity": "library", 
+                "marker-color": "#0000ff", 
+                "marker-symbol": "library", 
+                "name": "Madras University Library", 
+                "opening_hours": "Mo-Su 08:00-20:00", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.215,
+                    80.215, 
                     13.04203
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "3",
-                "addr:street": "3rd Avenue,Ashok Nagar (Pudur)",
-                "address:postcode": "600083",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Ashok Nagar",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "3", 
+                "addr:street": "3rd Avenue, Ashok Nagar (Pudur)", 
+                "address:postcode": "600083", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Ashok Nagar", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.222318,
+                    80.222318, 
                     13.028998
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "31",
-                "addr:street": "New Street,West Mambalam",
-                "address:postcode": "600033",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,West Mambalam",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "31", 
+                "addr:street": "New Street, West Mambalam", 
+                "address:postcode": "600033", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, West Mambalam", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.257219,
+                    80.257219, 
                     13.00942
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "4th Main Road,Gandhi Nagar,Adyar",
-                "address:postcode": "600020",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Circle Library,Gandhi Nagar",
-                "opening_hours": "Mo-Su 08:00-20:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "4th Main Road, Gandhi Nagar, Adyar", 
+                "address:postcode": "600020", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Circle Library, Gandhi Nagar", 
+                "opening_hours": "Mo-Su 08:00-20:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.252574,
+                    80.252574, 
                     12.994974
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "25",
-                "addr:street": "2nd Avenue,Indira Nagar,Adyar",
-                "address:postcode": "600020",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Indira Nagar",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "25", 
+                "addr:street": "2nd Avenue, Indira Nagar, Adyar", 
+                "address:postcode": "600020", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Indira Nagar", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.261102,
+                    80.261102, 
                     13.000761
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "2/14",
-                "addr:street": "11th Cross Street,Shastri Nagar,Adyar",
-                "address:postcode": "600020",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Shastri Nagar",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "2/14", 
+                "addr:street": "11th Cross Street, Shastri Nagar, Adyar", 
+                "address:postcode": "600020", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Shastri Nagar", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.23769,
+                    80.23769, 
                     13.05279
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "5",
-                "addr:street": "Dharmapuram Main Road,T Nagar",
-                "address:postcode": "600017",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,T Nagar",
-                "opening_hours": "Mo-Su 10:00-19:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "5", 
+                "addr:street": "Dharmapuram Main Road, T Nagar", 
+                "address:postcode": "600017", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, T Nagar", 
+                "opening_hours": "Mo-Su 10:00-19:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.20917,
+                    80.20917, 
                     12.98618
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Brindavan Nagar,Velachery West",
-                "address:postcode": "600088",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Velachery",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Fr off; Sa[2] off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Brindavan Nagar, Velachery West", 
+                "address:postcode": "600088", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Velachery", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Fr off; Sa[2] off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.223169,
+                    80.223169, 
                     13.038996
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "",
-                "addr:street": "Bakthavachalam Street,West Mambalam",
-                "address:postcode": "600033",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Part Time Library,West Mambalam",
-                "opening_hours": "Mo-Su 09:00-12:00; Fr off; Sa[2] off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "", 
+                "addr:street": "Bakthavachalam Street, West Mambalam", 
+                "address:postcode": "600033", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Part Time Library, West Mambalam", 
+                "opening_hours": "Mo-Su 09:00-12:00; Fr off; Sa[2] off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.230394,
+                    80.230394, 
                     13.022781
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "D-62",
-                "addr:street": "PWD Govt. Staff Qtrs,Todd Hunter Nagar,Saidapet",
-                "address:postcode": "600015",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Todd Hunter Nagar,Saidapet",
-                "opening_hours": "",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "D-62", 
+                "addr:street": "PWD Govt. Staff Qtrs, Todd Hunter Nagar, Saidapet", 
+                "address:postcode": "600015", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Todd Hunter Nagar, Saidapet", 
+                "opening_hours": "", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.225677,
+                    80.225677, 
                     13.012979
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "26",
-                "addr:street": "E Block,Venkatapuram,Saidapet",
-                "address:postcode": "600015",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "District Branch Library,Venkatapuram,Saidapet",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "26", 
+                "addr:street": "E Block, Venkatapuram, Saidapet", 
+                "address:postcode": "600015", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "District Branch Library, Venkatapuram, Saidapet", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
-        },
+        }, 
         {
             "geometry": {
                 "coordinates": [
-                    80.216302,
+                    80.216302, 
                     13.020074
-                ],
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "addr:city": "Chennai",
-                "addr:country": "IN",
-                "addr:housenumber": "29/11",
-                "addr:street": "Anjaneya Temple Street,Saidapet",
-                "address:postcode": "600015",
-                "amenity": "library",
-                "marker-color": "#00ff00",
-                "marker-symbol": "library",
-                "name": "Branch Library,Saidapet",
-                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off",
+                "addr:city": "Chennai", 
+                "addr:country": "IN", 
+                "addr:housenumber": "29/11", 
+                "addr:street": "Anjaneya Temple Street, Saidapet", 
+                "address:postcode": "600015", 
+                "amenity": "library", 
+                "marker-color": "#00ff00", 
+                "marker-symbol": "library", 
+                "name": "Branch Library, Saidapet", 
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off; PH off", 
                 "operator": "Directorate of Public Libraries"
-            },
+            }, 
             "type": "Feature"
         }
-    ],
+    ], 
     "type": "FeatureCollection"
 }
