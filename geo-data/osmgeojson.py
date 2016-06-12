@@ -58,7 +58,7 @@ my_feature = Feature(geometry=my_point, properties={
     'addr:city':'Chennai',
     'addr:street':street,
     'addr:housenumber':housenumber,
-    'address:postcode':postcode,
+    'addr:postcode':postcode,
     'marker-color': '#00ff00',
     'marker-symbol': 'library'
     } )
