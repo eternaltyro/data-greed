@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# TODO: x axis labels to be turned vertical
 
 from datetime import datetime
 import matplotlib.pyplot as plt
@@ -25,4 +26,5 @@ timeaxis = np.array(timelist)
 valueaxis = np.array(valuelist)
 
 plt.plot(timeaxis, valueaxis)
+plt.savefig('elec_use.png', bbox_inches='tight')
 plt.show()
