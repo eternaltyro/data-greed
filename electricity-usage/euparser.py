@@ -27,4 +27,5 @@ valueaxis = np.array(valuelist)
 
 plt.plot(timeaxis, valueaxis)
 plt.savefig('elec_use.png', bbox_inches='tight')
+plt.savefig('elec_use.svg')
 plt.show()
