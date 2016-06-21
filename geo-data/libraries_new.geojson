@@ -1425,6 +1425,29 @@
                 "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.260158,
+                    13.030056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Chennai",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Warren Road, Mylapore",
+                "address:postcode": "600004",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "District Branch Library, St. Mary's Road, Mylapore",
+                "opening_hours": "Mo-Su 08:00-11:30,16:00-19:00; Sa[2] off; Fr off",
+                "operator": "Directorate of Public Libraries"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
