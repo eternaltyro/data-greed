@@ -11,6 +11,7 @@ valuelist = [0,1,2,3,4]
 
 timeaxis = np.array(timelist)
 valueaxis = np.array(valuelist)
+<<<<<<< Updated upstream
 ax.plot(timeaxis, valueaxis, 'r-')
 
 # rotate and align the tick labels so they look better
@@ -21,5 +22,18 @@ fig.autofmt_xdate()
 import matplotlib.dates as mdates
 ax.fmt_xdata = mdates.DateFormatter('%Y-%m-%d')
 plt.savefig('elec_use.png', bbox_inches='tight')
+=======
+#ax.plot(timeaxis, valueaxis, 'r-')
+plt.hist(valuelist, timelist)
+plt.plot(timeaxis, valueaxis, 'r-')
+# rotate and align the tick labels so they look better
+#fig.autofmt_xdate()
+
+# use a more precise date string for the x axis locations in the
+# toolbar
+#import matplotlib.dates as mdates
+#ax.fmt_xdata = mdates.DateFormatter('%Y-%m-%d')
+#plt.savefig('elec_use.png', bbox_inches='tight')
+>>>>>>> Stashed changes
 plt.show()
 
