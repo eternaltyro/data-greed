@@ -1,4 +1,4 @@
-# !/usr/bin/env python
+#!/usr/bin/env python
 # 
 # vim: set expandtab:tw=4:ts=4:sw=4:
 # 
