@@ -26,3 +26,8 @@ Estimated Monthly usage - Min 62 kWh, Max 191 kWh
 - Data Logging is done manually to a CSV file
 - Use euparser.py file to plot the data
 - Time format is "%Y-%B-%d %H:%M"
+
+TODO:
+====
+- Make histogram overlay
+- Make the x-axis labels better
