@@ -1448,6 +1448,52 @@
                 "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    77.676480,
+                    11.316950
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Erode",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Thindal",
+                "address:postcode": "638012",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Govt. Public Library, Thindal",
+                "opening_hours": "Mo-Th 08:00-13:00,16:00-20:00; Sa-Su 08:00-13:00,16:00-20:00; Fr off",
+                "operator": "Directorate of Public Libraries, Erode"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    77.726520,
+                    11.339290
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Erode",
+                "addr:country": "IN",
+                "addr:housenumber": "",
+                "addr:street": "Panneerselvam Park, Erode",
+                "address:postcode": "638012",
+                "amenity": "library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Competitive Exam Success Library",
+                "opening_hours": "Mo-Su 09:00-13:30,16:00-20:30",
+                "operator": ""
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
