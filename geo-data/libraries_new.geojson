@@ -1469,6 +1469,8 @@
                 "name": "Govt. Public Library, Thindal",
                 "opening_hours": "Mo-Th 08:00-13:00,16:00-20:00; Sa-Su 08:00-13:00,16:00-20:00; Fr off",
                 "operator": "Directorate of Public Libraries, Erode"
+                "operational_status": "defunct",
+                "infrastructure_status": "healthy"
             },
             "type": "Feature"
         },
@@ -1491,7 +1493,9 @@
                 "marker-symbol": "library",
                 "name": "Competitive Exam Success Library",
                 "opening_hours": "Mo-Su 09:00-13:30,16:00-20:30",
-                "operator": ""
+                "operator": "",
+                "operational_status": "operational",
+                "infrastructure_status": "healthy"
             },
             "type": "Feature"
         }
