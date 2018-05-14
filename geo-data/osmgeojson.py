@@ -1,19 +1,23 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+Program to upload GeoJSON based data to Open Street Map
+"""
 from geojson import Point
 from geojson import Feature, FeatureCollection
 from geojson import dump, load
 from osmapi import OsmApi
 import os
 
+DATAFILE='libraries_new.geojson'
+TESTFILE='libraries_test.geojson'
+GEODATAFILE=DATAFILE # Switch between test data and actual data
+# COORD_SYSTEM='degree'
+COORD_SYSTEM='decimal'
 
 def degree_decimal(dms_list):
     return dms_list[0] + (dms_list[1] / 60.0) + (dms_list[2] / 3600.0)
-
-DATAFILE='libraries_new.geojson'
-TESTFILE='libraries_test.geojson'
-# Change the value to switch between test data and actual data
-GEODATAFILE=DATAFILE
-# COORD_SYSTEM='degree'
-COORD_SYSTEM='decimal'
 
 if COORD_SYSTEM == 'decimal':
     lat = input('lat: ')
@@ -34,7 +38,7 @@ def add_to_osm():
     connection = OsmApi(passwordfile=u'', api=OSM_EP)
 
 # GeoJSON point is (Easting, Northing) / (Long, Lat) order!
-my_point = Point((lon,lat))
+_point = Point((lon,lat))
 
 ''' Properties: {
         Name: Name of the library
@@ -49,7 +53,7 @@ street = raw_input('Street: ')
 housenumber = raw_input('Door: ')
 postcode = raw_input('PINCODE: ')
 
-my_feature = Feature(geometry=my_point, properties={
+_feature = Feature(geometry=_point, properties={
     'amenity':'library',
     'name':name,
     'operator':'Directorate of Public Libraries',
@@ -63,20 +67,17 @@ my_feature = Feature(geometry=my_point, properties={
     'marker-symbol': 'library'
     } )
 
-if os.stat(GEODATAFILE).st_size == 0:
-    FILE_EMPTY = True
-else:
-    FILE_EMPTY = False
+FILE_EMPTY = True if os.stat(GEODATAFILE).st_size == 0 else False
 
 if not FILE_EMPTY:
-    with open(GEODATAFILE,'r') as data:
-        current = load(data)
-        featureSet = current['features']
-        featureSet.append(my_feature)
-        print("Total libraries: %d" % len(featureSet))
-        libraries = FeatureCollection(featureSet)
+    with open(GEODATAFILE,'r') as _data:
+        current = load(_data)
+        _featureCollection = current['features']
+        _featureCollection.append(_feature)
+        print("Total libraries: %d" % len(_featureCollection))
+        libraries = FeatureCollection(_featureCollection)
 else:
-    libraries = FeatureCollection([my_feature])
+    libraries = FeatureCollection([_feature])
 
 # Write data to file
 with open(GEODATAFILE,'w+') as data:
