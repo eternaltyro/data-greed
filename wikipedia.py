@@ -11,5 +11,13 @@ header = {'User-Agent': 'Mozilla/5.0'}
 pagefetch = requests.get(page)
 soup = BeautifulSoup(pagefetch.text)
 
-table = soup.find("table", { "class" : "wikitable" })
+tables = soup.findAll("table", { "class" : "wikitable" })
+
+for table in tables:
+    for row in table.findAll("tr"):
+        cells = row.findAll("td")
+        try:
+            print cells.find(text=True)
+        except IndexError:
+            print "null"
 print table
