@@ -23,8 +23,8 @@ if COORD_SYSTEM == 'decimal':
     lat = input('lat: ')
     lon = input('lon: ')
 elif COORD_SYSTEM == 'degree':
-    lat_dms = raw_input('deg,min,sec: ')
-    lon_dms = raw_input('deg,min,sec: ')
+    lat_dms = input('deg,min,sec: ')
+    lon_dms = input('deg,min,sec: ')
     lat = degree_decimal([float(x.strip()) for x in lat_dms.split(',')])
     lon = degree_decimal([float(y.strip()) for y in lon_dms.split(',')])
 
@@ -38,7 +38,7 @@ def add_to_osm():
     connection = OsmApi(passwordfile=u'', api=OSM_EP)
 
 # GeoJSON point is (Easting, Northing) / (Long, Lat) order!
-_point = Point((lon,lat))
+_point = Point((float(lon.strip()),float(lat.strip())))
 
 ''' Properties: {
         Name: Name of the library
@@ -47,11 +47,11 @@ _point = Point((lon,lat))
         Address: Door number if available and street
 '''
 
-name = raw_input('Name: ')
-timings = raw_input('Time: ')
-street = raw_input('Street: ')
-housenumber = raw_input('Door: ')
-postcode = raw_input('PINCODE: ')
+name = input('Name: ')
+timings = input('Time: ')
+street = input('Street: ')
+housenumber = input('Door: ')
+postcode = input('PINCODE: ')
 
 _feature = Feature(geometry=_point, properties={
     'amenity':'library',
