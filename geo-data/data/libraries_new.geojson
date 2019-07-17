@@ -1521,6 +1521,29 @@
                 "operator": "Directorate of Public Libraries"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    79.61705,
+                    12.13141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "addr:city": "Mailam",
+                "addr:country": "IN",
+                "addr:doornumber": "",
+                "addr:postcode": "604304",
+                "addr:street": "Unknown",
+                "amenity": "Library",
+                "marker-color": "#00ff00",
+                "marker-symbol": "library",
+                "name": "Mailam Branch Library",
+                "opening_hours": "",
+                "operator": "Directorate of public libraries"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
